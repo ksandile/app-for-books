@@ -1,0 +1,20 @@
+nav {
+    background-color: #333; /* Dark background for the navbar */
+    padding: 10px; /* Space around the links */
+    display: flex; /* Aligns links horizontally */
+    justify-content: space-around; /* Space between the links */
+  }
+  
+  nav a {
+    color: white; /* White text color for the links */
+    text-decoration: none; /* Removes the underline */
+    font-size: 1.2rem; /* Increases the font size */
+    padding: 10px 20px; /* Adds padding around the links */
+    border-radius: 5px; /* Slightly rounds the corners */
+    transition: background-color 0.3s ease; /* Smooth transition effect */
+  }
+  
+  nav a:hover {
+    background-color: #4CAF50; /* Green background on hover */
+  }
+  
