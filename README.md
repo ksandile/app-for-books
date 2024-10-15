@@ -36,7 +36,7 @@ The app will be available at [http://localhost:3000](http://localhost:3000). The
 
 ### Step 4: Run the API
 
-To display the items in BookApp, you will need to run the API provided at this link:  
+To display the items in BookApp, you will need to run the Server(API) provided at this link:  
 [https://github.com/ksandile/book-serverAPI](https://github.com/ksandile/book-serverAPI)
 
 Follow the instructions in the `book-serverAPI` repository to set up and run the API locally. Once the API is running, it will provide the data that BookApp uses to display book information.
