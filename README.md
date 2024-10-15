@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# BookApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is called **BookApp** and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Getting Started
+
+To get started with BookApp, follow the steps below:
+
+### Step 1: Clone the Repository
+
+Clone the repository to your local machine:
+
+git clone https://github.com/your-username/bookapp.git
+cd bookapp
 
 ## Available Scripts
 
