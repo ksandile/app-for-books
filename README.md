@@ -59,12 +59,6 @@ Builds the app for production and outputs it to the `build` folder. This bundles
 
 This command allows you to customize the configuration of Create React App by exposing the build files and configuration settings like Webpack, Babel, etc.
 
-## Learn More
+## Contact me via email
 
-To learn more about Create React App, visit the [official documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn more about React, check out the [React documentation](https://reactjs.org/).
-
----
-
-Feel free to reach out for any questions regarding setup or usage!
+[ksandile127@gmail.com]
